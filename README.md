@@ -1,4 +1,4 @@
-[![Platform](https://img.shields.io/badge/platform-ios%20%7C%20tvos-lightgrey.svg)](https://github.com/balitax/MVVM-AC-Template/)
+[![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)](https://github.com/balitax/MVVM-AC-Template/)
 [![License](https://img.shields.io/badge/license-MIT-343434.svg)](https://github.com/balitax/MVVM-AC-Template/)
 
 # MVVM-AC
