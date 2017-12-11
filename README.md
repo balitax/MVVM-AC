@@ -1,3 +1,6 @@
+# MVVM-AC-Template
+
+[![Gitter](https://badges.gitter.im/MVVM-AC-Template/Lobby.svg)](https://gitter.im/MVVM-AC-Template/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)](https://github.com/balitax/MVVM-AC-Template/)
 [![License](https://img.shields.io/badge/license-MIT-343434.svg)](https://github.com/balitax/MVVM-AC-Template/)
 
