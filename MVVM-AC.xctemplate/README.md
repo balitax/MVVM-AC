@@ -9,9 +9,9 @@
 A MVVM Swift XCode Template to use as a starting point for an iOS apps.
 
 # EXAMPLE App Using This Template
-```
-https://github.com/balitax/DOT-Boilerplate
-```
+
+* https://github.com/balitax/DOT-Boilerplate
+
 
 # Introduction
 
@@ -40,6 +40,7 @@ MVVM-AC also makes it easy extend on the project structure by providing some fil
 
 1. Clone the MVVM-AC-Template Repository into your developer folder
 2. Copy MVVm-AC-Template Folder into `~/Library/Developer/Xcode/Templates/`.
+3. Required cocoapods libs `Alamofire` and `ObjectMapper` as default
 
 
 Xcode should now contain the MVVM-AC template in as a default when creating a new project for iOS.
