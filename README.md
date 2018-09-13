@@ -7,9 +7,9 @@
 
 A MVVM Swift XCode Template to use as a starting point for an iOS apps.
 
-# EXAMPLE How to Use
+# Example How to Use
 
-* Update link Youtube Soon
+* https://youtu.be/F94vbgIB8ao
 
 
 # Introduction
