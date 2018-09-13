@@ -17,12 +17,12 @@ class ___FILEBASENAMEASIDENTIFIER___: UIViewController {
     fileprivate func setupViewModel() {
 
         self.viewModel.showAlertClosure = {
-            let alert = self.notifViewModel.alertMessage ?? ""
+            let alert = self.viewModel.alertMessage ?? ""
             print(alert)
         }
         
         self.viewModel.updateLoadingStatus = {
-            if self.notifViewModel.isLoading {
+            if self.viewModel.isLoading {
                 print("LOADING...")
             } else {
                  print("DATA READY")

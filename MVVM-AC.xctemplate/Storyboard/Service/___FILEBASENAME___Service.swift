@@ -6,7 +6,7 @@ import Alamofire
 class ___FILEBASENAMEASIDENTIFIER___: ___FILEBASENAMEASIDENTIFIER___Protocol {
     // Call protocol function
 
-    func removeThisFuncName(success: @escaping() -> (), failure: @escaping() -> ()) {
+    func removeThisFuncName(success: @escaping(_ data: ___VARIABLE_productName:identifier___Model) -> (), failure: @escaping() -> ()) {
 
         let url = ""
 
