@@ -1,6 +1,5 @@
-# MVVM-AC-Template
+# MVVM-AC
 
-[![Gitter](https://badges.gitter.im/MVVM-AC-Template/Lobby.svg)](https://gitter.im/MVVM-AC-Template/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)](https://github.com/balitax/MVVM-AC-Template/)
 [![License](https://img.shields.io/badge/license-MIT-343434.svg)](https://github.com/balitax/MVVM-AC-Template/)
 
@@ -8,14 +7,14 @@
 
 A MVVM Swift XCode Template to use as a starting point for an iOS apps.
 
-# EXAMPLE App Using This Template
+# EXAMPLE How to Use
 
-* https://github.com/balitax/DOT-Boilerplate
+* Update link Youtube Soon
 
 
 # Introduction
 
-From building a prototype, development app, to a full blown production app, MVVM-AC was developed with a goal to improve development time faster, streamline development, reduce development, and ensure the long term flexibility of the project from prototype to production.
+From building a prototype, development app, to a full blown production app, MVVM-AC was developed with a goal to improve development time faster, streamline development, reduce development, and ensure the long term flexibility of the project from prototype to production. Easy to use for junior or senior iOS Developer
 
 Over the years developing, my approach to the development has drastically changed, but one thing hasn't, the project lead always needs to be aware of the architecture, configure the environment as such, and ensure the application's architecture can evolve over time.
 
@@ -26,21 +25,35 @@ MVVM-AC provides a solid starting point for a new project by providing some up f
 * Configured Project Scaffolding
 * Default Frameworks, via Podfile
 * Support Storyboard, Xib, or Fullcode Generator
-* Todo
+* Support internet checker, server error state, alert message, loading state
+* More sample code
+* On progress any update
 
 <br />
 
 MVVM-AC also makes it easy extend on the project structure by providing some file templates that the base layer making it easy to integrate into the architecture w/ some guided comments as needed.
 
-* Base Layer - ViewController.
-* Services Layer -  Networked & Standalone
+* Auto Generate - ViewController.
+* Auto Generate Services Layer -  Networked & Standalone
+* Auto Generate Model
+* Auto Generate ViewModel
+* Auto Generate Protocol
 * Many more to come ...
+
+<img width="562" alt="screen shot 2018-09-13 at 10 44 23" src="https://user-images.githubusercontent.com/1490342/45466018-0d14ed80-b742-11e8-8459-07e42aab5bd0.png">
+
 
 # Installation
 
-1. Clone the MVVM-AC-Template Repository into your developer folder
+1. Clone the MVVM-AC Repository into your developer folder
 2. Copy MVVm-AC-Template Folder into `~/Library/Developer/Xcode/Templates/`.
-3. Required cocoapods libs `Alamofire` and `ObjectMapper` as default
+3. Required cocoapods libs `Alamofire` as default
+
+# Added Function
+
+- APIManager : https://gist.github.com/balitax/feae361311ace824f691341aa3244394
+- Reach : https://gist.github.com/balitax/cb5c6ddbe1ab47dabb578c0a9ae0033a
+
 
 
 Xcode should now contain the MVVM-AC template in as a default when creating a new project for iOS.
