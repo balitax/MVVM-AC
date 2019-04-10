@@ -44,10 +44,16 @@ MVVM-AC also makes it easy extend on the project structure by providing some fil
 
 
 # Installation
-
+### Method 1 :
 1. Clone the MVVM-AC Repository into your developer folder
 2. Copy MVVm-AC-Template Folder into `~/Library/Developer/Xcode/Templates/`.
 3. Required cocoapods libs `Alamofire` as default
+
+### Method 2 :
+Clone the MVVM-AC Repository & run:
+```shell
+sudo swift install.swift
+```
 
 # Added Function
 
